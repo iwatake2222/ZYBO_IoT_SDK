@@ -1,0 +1,15 @@
+#########
+#Exclude
+#########
+Debug/
+Release/
+
+#########
+#Include
+#########
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+!*.project
+!*.cproject
